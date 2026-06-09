@@ -68,7 +68,7 @@ Después GitHub lo mostrará automáticamente:
 ![Diagrama ER](docs/diagrama-er.png)
 ```
 
-![Diagrama ER](docs/diagrama-er.png)
+![Diagrama ER](docs/diagrama_er.png)
 
 ---
 
