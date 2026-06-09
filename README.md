@@ -185,11 +185,7 @@ Laragon se utilizó como entorno local para:
 - Ejecutar el servidor local.
 - Realizar pruebas de la base de datos.
 
-### Captura
 
-```markdown
-![Laragon](docs/laragon.png)
-```
 
 ---
 
@@ -202,11 +198,7 @@ DBeaver se utilizó para:
 - Ejecutar consultas SQL.
 - Visualizar las relaciones entre tablas.
 
-### Captura
 
-```markdown
-![DBeaver](docs/dbeaver.png)
-```
 
 ---
 
