@@ -56,13 +56,6 @@ El diseño de la base de datos fue realizado y documentado mediante DBeaver.
 
 ## Diagrama ER
 
-> Exporta el diagrama desde DBeaver y guárdalo como:
-
-```text
-docs/diagrama-er.png
-```
-
-Después GitHub lo mostrará automáticamente:
 
 ```markdown
 ![Diagrama ER](docs/diagrama-er.png)
